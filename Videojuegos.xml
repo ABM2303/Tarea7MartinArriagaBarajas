@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entertainment>
+    <play categoria="Plataformas">
+        <titulo>Crash Bandicoot N Sane Trilogy</titulo>
+        <desarrollador>Naughty Dog</desarrollador>
+        <director>Dan Tanguay</director>
+        <plataformas>
+            <plataforma1>Nintendo Switch</plataforma1>
+            <plataforma2>Playstation 4</plataforma2>
+            <plataforma3>Xbox One</plataforma3>
+        </plataformas>
+        <anio>2017</anio>
+    </play>
+    <play categoria="Luchas">
+        <titulo>Super Smash Bros Ultimate</titulo>
+        <desarrollador>Sora Ltd</desarrollador>
+        <director>Masahiro Sakurai</director>
+        <plataformas>
+            <plataforma1>Nintendo Switch</plataforma1>
+            <plataforma2>Ninguno</plataforma2>
+            <plataforma3>Ninguno</plataforma3>
+        </plataformas>
+        <anio>2018</anio>
+    </play>
+    <play categoria="Shoot'em up">
+        <titulo>Cuphead</titulo>
+        <desarrollador>StudioMDHR</desarrollador>
+        <director>Jared Moldenhauer</director>
+        <plataformas>
+            <plataforma1>Playstation 4</plataforma1>
+            <plataforma2>Nintendo Switch</plataforma2>
+            <plataforma3>Xbox One</plataforma3>
+        </plataformas>
+        <anio>2017</anio>
+    </play>
+    <play categoria="Shoot'em up">
+        <titulo>Metal Slug Anthology</titulo>
+        <desarrollador>SNK</desarrollador>
+        <director>SNK</director>
+        <plataformas>
+            <plataforma1>PC</plataforma1>
+            <plataforma2>Nintendo Wii</plataforma2>
+            <plataforma3>Playstation 4</plataforma3>
+        </plataformas>
+        <anio>2006</anio>
+    </play>
+    <play categoria="Disparos en tercera persona">
+        <titulo>Resident Evil 4</titulo>
+        <desarrollador>Capcom</desarrollador>
+        <director>Shinji Mikami</director>
+        <plataformas>
+            <plataforma1>Nintendo Gamecube</plataforma1>
+            <plataforma2>Xbox 360</plataforma2>
+            <plataforma3>Playstation 4</plataforma3>
+        </plataformas>
+        <anio>2005</anio>
+    </play>
+</entertainment>

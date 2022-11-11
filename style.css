@@ -1,0 +1,58 @@
+html{
+    font-family:'Courier New', Courier, monospace;
+}
+
+body{
+    width: 100%;
+    margin: 0 auto;
+    align-content: center;
+    text-align: center;
+    align-items: center;
+    background-color: #ddd;
+}
+
+table{
+    margin-left: 250px;
+    align-content: center;
+    text-align: center;
+    align-items: center;
+    border: 1px solid black;
+}
+
+th, td{
+   border: 1px solid black;
+}
+
+h1{
+    width: 100%;
+    text-align: center;
+    border-bottom: 4px solid blue;
+    color: blue;
+}
+
+
+
+.boton{
+    background-color: green;
+    border:none;
+    color:white;
+    font-weight: 500;
+    /* text-decoration: none; */
+    margin-left: 10px;
+    padding: 0.5rem 1rem;
+    width: 18rem;
+    font-family:'Courier New', Courier, monospace;
+    text-transform: uppercase;
+    border-radius: 5px;
+    /* text-decoration: none; */
+    text-align: center;
+}
+
+
+table{
+    width: 60vw;
+    align-content: center;
+    text-align: center;
+}
+
+ 
